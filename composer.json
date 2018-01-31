@@ -1,0 +1,22 @@
+{
+    "name": "jiangyongwei/composer_test",
+    "description": "test",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "jiangyongwei",
+            "email": "1085562810@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
